@@ -41,10 +41,12 @@ Now that we have created our basic application, it's time to **push** it to our 
     
 ![couchapp push](imgs/gettingstarted02.png "couchapp push testdb")
 
-Go on http://127.0.0.1:5984/testdb/_design/helloworld/index.html, you will see:
+Go on http://127.0.0.1:5984/testdb/_design/helloworld/_show/hello, you will see:
 
 ![CouchApp hello world](imgs/gettingstarted03.png "CouchApp hello world")
 
+
+There's also a sample app at http://127.0.0.1:5984/testdb/_design/helloworld/index.html
 
 ##4. Clone your CouchApp
 
