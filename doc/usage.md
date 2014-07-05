@@ -55,9 +55,9 @@
 
 * **generate** : allows you to generate a basic couchapp. It can also be used to create template of functions. Ex:
 
-    couchapp generate myapp
-    cd myapp
-    couchapp generate view someview
+        couchapp generate myapp
+        cd myapp
+        couchapp generate view someview
 
 * **init**: Initialize a CouchApp. When run in the folder of your application it create a default `.couchapprc` file. This file is needed by couchapp to find your application. Use this command when you clone your application from an external repository (git, hg):
 
